@@ -40,6 +40,14 @@ OBJECTIVES
 
 -This project will require field studies.
 
+PROPOSED?
+
+- Categorize how grade of security have a wifi hotspot and describe how percentage of hotspot gather information, how many inject any kind of contents (ads, javascript files, etc), how many use any kind of proxy to alter https communication (man in the middle), etc.
+
+- Create an evaluation plan to use it for performing my test against different hotspot.
+
+- Propose some recommendation to make user connection more secure. 
+
 ////////////////////////////////////////////////////////////
 
 NEWS
