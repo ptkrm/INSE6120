@@ -1,10 +1,10 @@
 ////////////////////////////////////////////////////////////
 
-INSE 6120 Cryptographic Protocols and Network Security 
+## INSE 6120 Cryptographic Protocols and Network Security 
 
 ////////////////////////////////////////////////////////////
 
-IMPORTANT
+## IMPORTANT
 
 - Project Progress Report by NOV / 21
 - Demo by DEC / 06
@@ -12,7 +12,7 @@ IMPORTANT
 
 ////////////////////////////////////////////////////////////
 
-PROPOSAL
+## PROPOSAL
 
 
 For this course, students can choose for their project to work either on a high-quality survey, or on the implementa- tion of some security-related idea. See below the the criteria for each option. Projects can be made in groups of at most three students. Important: please keep in mind that the proposals under Option 2 are restricted—the course professor reserves the rights on your development/analysis (but we will also help you achieve academic recognition for your work, if your contribution is significant).
@@ -26,31 +26,31 @@ For this type of project, students are asked to implement a working solution (in
 
 ////////////////////////////////////////////////////////////
 
-OBJECTIVES
+## OBJECTIVES
 
--  How secure are these networks? 
+-  _How secure are these networks?_
 
-- What can a malicious user do? 
+- _What can a malicious user do?_ 
 
-- These access points are sometimes privately owned, and owners may like to gather some information on its users. What do they gather? 
+- _These access points are sometimes privately owned, and owners may like to gather some information on its users. What do they gather?_ 
 
-- Do they inject content? 
+- _Do they inject content?_ 
 
-- Can you implement quick tests as an app to launch when connecting to a new hotspot to verify how dangerous it is? 
+- _Can you implement quick tests as an app to launch when connecting to a new hotspot to verify how dangerous it is?_ 
 
--This project will require field studies.
+- _This project will require field studies._
 
-PROPOSED?
+###PROPOSED?
 
-- Categorize how grade of security have a wifi hotspot and describe how percentage of hotspot gather information, how many inject any kind of contents (ads, javascript files, etc), how many use any kind of proxy to alter https communication (man in the middle), etc.
+- _Categorize how grade of security have a wifi hotspot and describe how percentage of hotspot gather information, how many inject any kind of contents (ads, javascript files, etc), how many use any kind of proxy to alter https communication (man in the middle), etc._
 
-- Create an evaluation plan to use it for performing my test against different hotspot.
+- _Create an evaluation plan to use it for performing my test against different hotspot._
 
-- Propose some recommendation to make user connection more secure. 
+- _Propose some recommendation to make user connection more secure._ 
 
 ////////////////////////////////////////////////////////////
 
-NEWS
+## NEWS
 
 NOV / 11
 

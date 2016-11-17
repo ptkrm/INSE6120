@@ -1,8 +1,8 @@
-NOTES
+## NOTES
 
 ////////////////////////////////////////////////////////////
 
-REFERENCES
+## REFERENCES
 
 + Tunneling for Transparency: A Large-Scale Analysis of End-to-End Violations in the Internet. David Choffnes, Alan Misove, Taejoong Chung
 
