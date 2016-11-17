@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Kismet</name>
+  <description>select * from wireless</description>
+<Style id="grapeamungus_normal">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <Style id="grapeamungus_highlight">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <StyleMap id="grapeamungus_styleMap">
+            <Pair>
+            <key>normal</key>
+            <styleUrl>#grapeamungus_normal</styleUrl>
+            </Pair>
+            <Pair>
+            <key>highlight</key>
+            <styleUrl>#grapeamungus_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Placemark>
+    <name>grapeamungus</name>
+<styleUrl>#grapeamungus_styleMap</styleUrl>    <description><![CDATA[BSSID:00:18:E7:8D:44:55<br>Encryption: WPA+TKIP WPA+PSK WPA+AES-CCM<br>Channel: 6<br><br>Current Clients: <br>MAC Address:	28:5A:EB:02:98:78<br>Manufacturer:	Unknown<br><br>MAC Address:	80:4E:81:AE:52:B5<br>Manufacturer:	Unknown<br><br>MAC Address:	9C:D2:1E:49:A6:28<br>Manufacturer:	Unknown<br><br><br><br>]]></description>
+    <Point>
+<LookAt><longitude>-73.558296</longitude><latitude>45.603523</latitude><altitude>1</altitude><range>1</range><tilt>1</tilt><heading>1</heading></LookAt>      <coordinates>-73.558296,45.603523,0</coordinates>
+    </Point>
+  </Placemark>
+<Style id="SmartRGfe14_normal">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <Style id="SmartRGfe14_highlight">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <StyleMap id="SmartRGfe14_styleMap">
+            <Pair>
+            <key>normal</key>
+            <styleUrl>#SmartRGfe14_normal</styleUrl>
+            </Pair>
+            <Pair>
+            <key>highlight</key>
+            <styleUrl>#SmartRGfe14_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Placemark>
+    <name>SmartRGfe14</name>
+<styleUrl>#SmartRGfe14_styleMap</styleUrl>    <description><![CDATA[BSSID:00:23:6A:75:FE:16<br>Encryption: WPA+TKIP WPA+PSK WPA+AES-CCM<br>Channel: 11<br><br>Current Clients: <br>MAC Address:	90:48:9A:F8:BA:25<br>Manufacturer:	Unknown<br><br>MAC Address:	00:23:6A:75:FE:15<br>Manufacturer:	Unknown<br><br>MAC Address:	00:34:DA:09:60:5F<br>Manufacturer:	Unknown<br><br>MAC Address:	00:C3:0E:03:2F:74<br>Manufacturer:	Unknown<br><br>MAC Address:	8C:34:FD:E6:89:F9<br>Manufacturer:	Unknown<br><br><br><br>]]></description>
+    <Point>
+<LookAt><longitude>-73.558304</longitude><latitude>45.603516</latitude><altitude>1</altitude><range>1</range><tilt>1</tilt><heading>1</heading></LookAt>      <coordinates>-73.558304,45.603516,0</coordinates>
+    </Point>
+  </Placemark>
+<Style id="gagnet19_normal">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <Style id="gagnet19_highlight">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <StyleMap id="gagnet19_styleMap">
+            <Pair>
+            <key>normal</key>
+            <styleUrl>#gagnet19_normal</styleUrl>
+            </Pair>
+            <Pair>
+            <key>highlight</key>
+            <styleUrl>#gagnet19_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Placemark>
+    <name>gagnet19</name>
+<styleUrl>#gagnet19_styleMap</styleUrl>    <description><![CDATA[BSSID:00:23:CD:C7:53:4E<br>Encryption: WPA+TKIP WPA+PSK WPA+AES-CCM<br>Channel: 6<br><br>Current Clients: <br>MAC Address:	00:23:CD:C7:53:4C<br>Manufacturer:	Unknown<br><br>MAC Address:	64:70:02:28:A4:71<br>Manufacturer:	Unknown<br><br><br><br>]]></description>
+    <Point>
+<LookAt><longitude>-73.558304</longitude><latitude>45.603516</latitude><altitude>1</altitude><range>1</range><tilt>1</tilt><heading>1</heading></LookAt>      <coordinates>-73.558304,45.603516,0</coordinates>
+    </Point>
+  </Placemark>
+<Style id="VIDEOTRON4486_normal">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <Style id="VIDEOTRON4486_highlight">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <StyleMap id="VIDEOTRON4486_styleMap">
+            <Pair>
+            <key>normal</key>
+            <styleUrl>#VIDEOTRON4486_normal</styleUrl>
+            </Pair>
+            <Pair>
+            <key>highlight</key>
+            <styleUrl>#VIDEOTRON4486_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Placemark>
+    <name>VIDEOTRON4486</name>
+<styleUrl>#VIDEOTRON4486_styleMap</styleUrl>    <description><![CDATA[BSSID:04:BF:6D:55:CC:90<br>Encryption: WPA+TKIP WPA+PSK WPA+AES-CCM<br>Channel: 6<br><br>Current Clients: <br>MAC Address:	04:BF:6D:55:CC:92<br>Manufacturer:	Unknown<br><br>MAC Address:	CC:F3:A5:3F:BD:90<br>Manufacturer:	Unknown<br><br>MAC Address:	D0:DF:9A:88:7A:DC<br>Manufacturer:	Unknown<br><br><br><br>]]></description>
+    <Point>
+<LookAt><longitude>-73.558273</longitude><latitude>45.603504</latitude><altitude>1</altitude><range>1</range><tilt>1</tilt><heading>1</heading></LookAt>      <coordinates>-73.558273,45.603504,0</coordinates>
+    </Point>
+  </Placemark>
+<Style id="VIDEOTRON5123_normal">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <Style id="VIDEOTRON5123_highlight">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <StyleMap id="VIDEOTRON5123_styleMap">
+            <Pair>
+            <key>normal</key>
+            <styleUrl>#VIDEOTRON5123_normal</styleUrl>
+            </Pair>
+            <Pair>
+            <key>highlight</key>
+            <styleUrl>#VIDEOTRON5123_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Placemark>
+    <name>VIDEOTRON5123</name>
+<styleUrl>#VIDEOTRON5123_styleMap</styleUrl>    <description><![CDATA[BSSID:04:BF:6D:55:D6:84<br>Encryption: WPA+PSK WPA+AES-CCM<br>Channel: 11<br><br>Current Clients: <br>MAC Address:	04:BF:6D:55:D6:86<br>Manufacturer:	Unknown<br><br><br><br>]]></description>
+    <Point>
+<LookAt><longitude>-73.558304</longitude><latitude>45.603516</latitude><altitude>1</altitude><range>1</range><tilt>1</tilt><heading>1</heading></LookAt>      <coordinates>-73.558304,45.603516,0</coordinates>
+    </Point>
+  </Placemark>
+<Style id="jovacoguest_normal">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <Style id="jovacoguest_highlight">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <StyleMap id="jovacoguest_styleMap">
+            <Pair>
+            <key>normal</key>
+            <styleUrl>#jovacoguest_normal</styleUrl>
+            </Pair>
+            <Pair>
+            <key>highlight</key>
+            <styleUrl>#jovacoguest_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Placemark>
+    <name>jovacoguest</name>
+<styleUrl>#jovacoguest_styleMap</styleUrl>    <description><![CDATA[BSSID:0A:18:D6:04:C7:FB<br>Encryption: WPA+PSK WPA+AES-CCM<br>Channel: 11<br><br>Current Clients: <br><br><br>]]></description>
+    <Point>
+<LookAt><longitude>-73.558273</longitude><latitude>45.6035</latitude><altitude>1</altitude><range>1</range><tilt>1</tilt><heading>1</heading></LookAt>      <coordinates>-73.558273,45.6035,0</coordinates>
+    </Point>
+  </Placemark>
+<Style id="BELL831_normal">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <Style id="BELL831_highlight">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <StyleMap id="BELL831_styleMap">
+            <Pair>
+            <key>normal</key>
+            <styleUrl>#BELL831_normal</styleUrl>
+            </Pair>
+            <Pair>
+            <key>highlight</key>
+            <styleUrl>#BELL831_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Placemark>
+    <name>BELL831</name>
+<styleUrl>#BELL831_styleMap</styleUrl>    <description><![CDATA[BSSID:2C:E4:12:92:8B:45<br>Encryption: WPA+PSK WPA+AES-CCM<br>Channel: 1<br><br>Current Clients: <br><br><br>]]></description>
+    <Point>
+<LookAt><longitude>-73.558273</longitude><latitude>45.6035</latitude><altitude>1</altitude><range>1</range><tilt>1</tilt><heading>1</heading></LookAt>      <coordinates>-73.558273,45.6035,0</coordinates>
+    </Point>
+  </Placemark>
+<Style id="BELL667_normal">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <Style id="BELL667_highlight">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <StyleMap id="BELL667_styleMap">
+            <Pair>
+            <key>normal</key>
+            <styleUrl>#BELL667_normal</styleUrl>
+            </Pair>
+            <Pair>
+            <key>highlight</key>
+            <styleUrl>#BELL667_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Placemark>
+    <name>BELL667</name>
+<styleUrl>#BELL667_styleMap</styleUrl>    <description><![CDATA[BSSID:40:65:A3:60:3B:EE<br>Encryption: WPA+PSK WPA+AES-CCM<br>Channel: 6<br><br>Current Clients: <br><br><br>]]></description>
+    <Point>
+<LookAt><longitude>-73.558289</longitude><latitude>45.603508</latitude><altitude>1</altitude><range>1</range><tilt>1</tilt><heading>1</heading></LookAt>      <coordinates>-73.558289,45.603508,0</coordinates>
+    </Point>
+  </Placemark>
+<Style id="Pow!_normal">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <Style id="Pow!_highlight">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <StyleMap id="Pow!_styleMap">
+            <Pair>
+            <key>normal</key>
+            <styleUrl>#Pow!_normal</styleUrl>
+            </Pair>
+            <Pair>
+            <key>highlight</key>
+            <styleUrl>#Pow!_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Placemark>
+    <name>Pow!</name>
+<styleUrl>#Pow!_styleMap</styleUrl>    <description><![CDATA[BSSID:40:65:A3:62:6B:26<br>Encryption: WPA+PSK WPA+AES-CCM<br>Channel: 2<br><br>Current Clients: <br>MAC Address:	40:65:A3:62:6B:20<br>Manufacturer:	Unknown<br><br>MAC Address:	A4:77:33:A2:08:F8<br>Manufacturer:	Unknown<br><br>MAC Address:	AC:BC:32:7F:63:C1<br>Manufacturer:	Unknown<br><br>MAC Address:	F4:0F:24:0A:85:4F<br>Manufacturer:	Unknown<br><br><br><br>]]></description>
+    <Point>
+<LookAt><longitude>-73.558304</longitude><latitude>45.603516</latitude><altitude>1</altitude><range>1</range><tilt>1</tilt><heading>1</heading></LookAt>      <coordinates>-73.558304,45.603516,0</coordinates>
+    </Point>
+  </Placemark>
+<Style id="BELL527_normal">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <Style id="BELL527_highlight">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <StyleMap id="BELL527_styleMap">
+            <Pair>
+            <key>normal</key>
+            <styleUrl>#BELL527_normal</styleUrl>
+            </Pair>
+            <Pair>
+            <key>highlight</key>
+            <styleUrl>#BELL527_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Placemark>
+    <name>BELL527</name>
+<styleUrl>#BELL527_styleMap</styleUrl>    <description><![CDATA[BSSID:40:C7:29:EF:5D:7E<br>Encryption: WPA+PSK WPA+AES-CCM<br>Channel: 11<br><br>Current Clients: <br>MAC Address:	40:B7:F3:C9:24:62<br>Manufacturer:	Unknown<br><br>MAC Address:	40:C7:29:EF:5D:78<br>Manufacturer:	Unknown<br><br><br><br>]]></description>
+    <Point>
+<LookAt><longitude>-73.558304</longitude><latitude>45.603516</latitude><altitude>1</altitude><range>1</range><tilt>1</tilt><heading>1</heading></LookAt>      <coordinates>-73.558304,45.603516,0</coordinates>
+    </Point>
+  </Placemark>
+<Style id="BravoTelecom-13381_normal">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <Style id="BravoTelecom-13381_highlight">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <StyleMap id="BravoTelecom-13381_styleMap">
+            <Pair>
+            <key>normal</key>
+            <styleUrl>#BravoTelecom-13381_normal</styleUrl>
+            </Pair>
+            <Pair>
+            <key>highlight</key>
+            <styleUrl>#BravoTelecom-13381_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Placemark>
+    <name>BravoTelecom-13381</name>
+<styleUrl>#BravoTelecom-13381_styleMap</styleUrl>    <description><![CDATA[BSSID:60:E3:27:70:17:DA<br>Encryption: WPA+PSK WPA+AES-CCM<br>Channel: 10<br><br>Current Clients: <br><br><br>]]></description>
+    <Point>
+<LookAt><longitude>-73.558273</longitude><latitude>45.6035</latitude><altitude>1</altitude><range>1</range><tilt>1</tilt><heading>1</heading></LookAt>      <coordinates>-73.558273,45.6035,0</coordinates>
+    </Point>
+  </Placemark>
+<Style id="_normal">
+            <IconStyle>
+                <color>7f0000FF</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <Style id="_highlight">
+            <IconStyle>
+                <color>7f0000FF</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <StyleMap id="_styleMap">
+            <Pair>
+            <key>normal</key>
+            <styleUrl>#_normal</styleUrl>
+            </Pair>
+            <Pair>
+            <key>highlight</key>
+            <styleUrl>#_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Placemark>
+    <name></name>
+<styleUrl>#_styleMap</styleUrl>    <description><![CDATA[BSSID:88:DC:96:33:7D:0E<br>Encryption: None<br>Channel: 1<br><br>Current Clients: <br><br><br>]]></description>
+    <Point>
+<LookAt><longitude>-73.558296</longitude><latitude>45.603523</latitude><altitude>1</altitude><range>1</range><tilt>1</tilt><heading>1</heading></LookAt>      <coordinates>-73.558296,45.603523,0</coordinates>
+    </Point>
+  </Placemark>
+<Style id="BELL587_normal">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <Style id="BELL587_highlight">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <StyleMap id="BELL587_styleMap">
+            <Pair>
+            <key>normal</key>
+            <styleUrl>#BELL587_normal</styleUrl>
+            </Pair>
+            <Pair>
+            <key>highlight</key>
+            <styleUrl>#BELL587_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Placemark>
+    <name>BELL587</name>
+<styleUrl>#BELL587_styleMap</styleUrl>    <description><![CDATA[BSSID:90:72:82:F7:D2:AE<br>Encryption: WPA+PSK WPA+AES-CCM<br>Channel: 6<br><br>Current Clients: <br>MAC Address:	E0:AC:CB:D8:FD:D4<br>Manufacturer:	Unknown<br><br><br><br>]]></description>
+    <Point>
+<LookAt><longitude>-73.558304</longitude><latitude>45.603516</latitude><altitude>1</altitude><range>1</range><tilt>1</tilt><heading>1</heading></LookAt>      <coordinates>-73.558304,45.603516,0</coordinates>
+    </Point>
+  </Placemark>
+<Style id="DIRECT-15-HP ENVY 4520 series_normal">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <Style id="DIRECT-15-HP ENVY 4520 series_highlight">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <StyleMap id="DIRECT-15-HP ENVY 4520 series_styleMap">
+            <Pair>
+            <key>normal</key>
+            <styleUrl>#DIRECT-15-HP ENVY 4520 series_normal</styleUrl>
+            </Pair>
+            <Pair>
+            <key>highlight</key>
+            <styleUrl>#DIRECT-15-HP ENVY 4520 series_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Placemark>
+    <name>DIRECT-15-HP ENVY 4520 series</name>
+<styleUrl>#DIRECT-15-HP ENVY 4520 series_styleMap</styleUrl>    <description><![CDATA[BSSID:98:E7:F4:1F:0C:16<br>Encryption: WPA+PSK WPA+AES-CCM<br>Channel: 1<br><br>Current Clients: <br><br><br>]]></description>
+    <Point>
+<LookAt><longitude>-73.558304</longitude><latitude>45.603516</latitude><altitude>1</altitude><range>1</range><tilt>1</tilt><heading>1</heading></LookAt>      <coordinates>-73.558304,45.603516,0</coordinates>
+    </Point>
+  </Placemark>
+<Style id="VIDEOTRON7441_normal">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <Style id="VIDEOTRON7441_highlight">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <StyleMap id="VIDEOTRON7441_styleMap">
+            <Pair>
+            <key>normal</key>
+            <styleUrl>#VIDEOTRON7441_normal</styleUrl>
+            </Pair>
+            <Pair>
+            <key>highlight</key>
+            <styleUrl>#VIDEOTRON7441_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Placemark>
+    <name>VIDEOTRON7441</name>
+<styleUrl>#VIDEOTRON7441_styleMap</styleUrl>    <description><![CDATA[BSSID:AC:F1:DF:65:A7:66<br>Encryption: WPA+PSK WPA+AES-CCM<br>Channel: 1<br><br>Current Clients: <br><br><br>]]></description>
+    <Point>
+<LookAt><longitude>-73.558304</longitude><latitude>45.603516</latitude><altitude>1</altitude><range>1</range><tilt>1</tilt><heading>1</heading></LookAt>      <coordinates>-73.558304,45.603516,0</coordinates>
+    </Point>
+  </Placemark>
+<Style id="BravoTelecom-4724_normal">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <Style id="BravoTelecom-4724_highlight">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <StyleMap id="BravoTelecom-4724_styleMap">
+            <Pair>
+            <key>normal</key>
+            <styleUrl>#BravoTelecom-4724_normal</styleUrl>
+            </Pair>
+            <Pair>
+            <key>highlight</key>
+            <styleUrl>#BravoTelecom-4724_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Placemark>
+    <name>BravoTelecom-4724</name>
+<styleUrl>#BravoTelecom-4724_styleMap</styleUrl>    <description><![CDATA[BSSID:C4:E9:84:FD:CD:12<br>Encryption: WPA+PSK WPA+AES-CCM<br>Channel: 5<br><br>Current Clients: <br>MAC Address:	00:03:AB:B9:ED:A2<br>Manufacturer:	Unknown<br><br>MAC Address:	00:0D:B0:00:9C:8E<br>Manufacturer:	Unknown<br><br>MAC Address:	00:11:00:04:86:97<br>Manufacturer:	Unknown<br><br>MAC Address:	6C:B7:F4:71:BC:5B<br>Manufacturer:	Unknown<br><br>MAC Address:	A0:CB:FD:A4:75:F2<br>Manufacturer:	Unknown<br><br>MAC Address:	C0:BD:D1:D7:23:AB<br>Manufacturer:	Unknown<br><br><br><br>]]></description>
+    <Point>
+<LookAt><longitude>-73.558296</longitude><latitude>45.603516</latitude><altitude>1</altitude><range>1</range><tilt>1</tilt><heading>1</heading></LookAt>      <coordinates>-73.558296,45.603516,0</coordinates>
+    </Point>
+  </Placemark>
+<Style id="BravoTelecom_14053_normal">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <Style id="BravoTelecom_14053_highlight">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <StyleMap id="BravoTelecom_14053_styleMap">
+            <Pair>
+            <key>normal</key>
+            <styleUrl>#BravoTelecom_14053_normal</styleUrl>
+            </Pair>
+            <Pair>
+            <key>highlight</key>
+            <styleUrl>#BravoTelecom_14053_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Placemark>
+    <name>BravoTelecom_14053</name>
+<styleUrl>#BravoTelecom_14053_styleMap</styleUrl>    <description><![CDATA[BSSID:EC:08:6B:DE:BA:7A<br>Encryption: WPA+PSK WPA+AES-CCM<br>Channel: 10<br><br>Current Clients: <br><br><br>]]></description>
+    <Point>
+<LookAt><longitude>-73.558304</longitude><latitude>45.603516</latitude><altitude>1</altitude><range>1</range><tilt>1</tilt><heading>1</heading></LookAt>      <coordinates>-73.558304,45.603516,0</coordinates>
+    </Point>
+  </Placemark>
+<Style id="SECURITE ANJOU_normal">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <Style id="SECURITE ANJOU_highlight">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <StyleMap id="SECURITE ANJOU_styleMap">
+            <Pair>
+            <key>normal</key>
+            <styleUrl>#SECURITE ANJOU_normal</styleUrl>
+            </Pair>
+            <Pair>
+            <key>highlight</key>
+            <styleUrl>#SECURITE ANJOU_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Placemark>
+    <name>SECURITE ANJOU</name>
+<styleUrl>#SECURITE ANJOU_styleMap</styleUrl>    <description><![CDATA[BSSID:F8:E9:03:B5:BB:BC<br>Encryption: WPA+TKIP WPA+PSK WPA+AES-CCM<br>Channel: 2<br><br>Current Clients: <br>MAC Address:	B0:DF:3A:7A:31:EC<br>Manufacturer:	Unknown<br><br>MAC Address:	B4:4B:D2:6B:5F:0A<br>Manufacturer:	Unknown<br><br><br><br>]]></description>
+    <Point>
+<LookAt><longitude>-73.558304</longitude><latitude>45.603516</latitude><altitude>1</altitude><range>1</range><tilt>1</tilt><heading>1</heading></LookAt>      <coordinates>-73.558304,45.603516,0</coordinates>
+    </Point>
+  </Placemark>
+<Style id="VIDEOTRON5476_normal">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <Style id="VIDEOTRON5476_highlight">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <StyleMap id="VIDEOTRON5476_styleMap">
+            <Pair>
+            <key>normal</key>
+            <styleUrl>#VIDEOTRON5476_normal</styleUrl>
+            </Pair>
+            <Pair>
+            <key>highlight</key>
+            <styleUrl>#VIDEOTRON5476_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Placemark>
+    <name>VIDEOTRON5476</name>
+<styleUrl>#VIDEOTRON5476_styleMap</styleUrl>    <description><![CDATA[BSSID:FC:F5:28:D4:40:40<br>Encryption: WPA+TKIP WPA+PSK WPA+AES-CCM<br>Channel: 11<br><br>Current Clients: <br><br><br>]]></description>
+    <Point>
+<LookAt><longitude>-73.558273</longitude><latitude>45.6035</latitude><altitude>1</altitude><range>1</range><tilt>1</tilt><heading>1</heading></LookAt>      <coordinates>-73.558273,45.6035,0</coordinates>
+    </Point>
+  </Placemark>
+
+</Document>
+</kml>

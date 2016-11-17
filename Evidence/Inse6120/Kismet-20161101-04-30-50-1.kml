@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+  <Document>
+    <Style id='greenpin'>
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id='yellowpin'>
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id='redpin'>
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id='whitepin'>
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <name>Kismet-20161101-04-30-50-1.kml</name>
+    <description><![CDATA[]]></description>
+    <Folder>
+    <name>UNKNOWN: 18 networks</name>
+      <Placemark>
+        <name>grapeamungus</name>
+        <description><![CDATA[SSID: grapeamungus<br> MAC: 00:18:E7:8D:44:55<br> Manuf: Unknown<br> Type: infrastructure<br> Channel: 6<br> Encryption: WPA+TKIP;WPA+PSK;WPA+AES-CCM<br> Last time: 2016-11-01 04:35:31<br> GPS: 45.6035,-73.558304]]></description>
+        <styleUrl>#whitepin</styleUrl>
+        <Point>
+          <coordinates>-73.558304,45.6035,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SmartRGfe14</name>
+        <description><![CDATA[SSID: SmartRGfe14<br> MAC: 00:23:6A:75:FE:16<br> Manuf: Unknown<br> Type: infrastructure<br> Channel: 11<br> Encryption: WPA+TKIP;WPA+PSK;WPA+AES-CCM<br> Last time: 2016-11-01 04:35:43<br> GPS: 45.6035,-73.558304]]></description>
+        <styleUrl>#whitepin</styleUrl>
+        <Point>
+          <coordinates>-73.558304,45.6035,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>gagnet19</name>
+        <description><![CDATA[SSID: gagnet19<br> MAC: 00:23:CD:C7:53:4E<br> Manuf: Unknown<br> Type: infrastructure<br> Channel: 6<br> Encryption: WPA+TKIP;WPA+PSK;WPA+AES-CCM<br> Last time: 2016-11-01 04:35:50<br> GPS: 45.6035,-73.558304]]></description>
+        <styleUrl>#whitepin</styleUrl>
+        <Point>
+          <coordinates>-73.558304,45.6035,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>VIDEOTRON4486</name>
+        <description><![CDATA[SSID: VIDEOTRON4486<br> MAC: 04:BF:6D:55:CC:90<br> Manuf: Unknown<br> Type: infrastructure<br> Channel: 6<br> Encryption: WPA+TKIP;WPA+PSK;WPA+AES-CCM<br> Last time: 2016-11-01 04:35:20<br> GPS: 45.6035,-73.558304]]></description>
+        <styleUrl>#whitepin</styleUrl>
+        <Point>
+          <coordinates>-73.558304,45.6035,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>VIDEOTRON5123</name>
+        <description><![CDATA[SSID: VIDEOTRON5123<br> MAC: 04:BF:6D:55:D6:84<br> Manuf: Unknown<br> Type: infrastructure<br> Channel: 11<br> Encryption: WPA+PSK;WPA+AES-CCM<br> Last time: 2016-11-01 04:35:43<br> GPS: 45.6035,-73.558304]]></description>
+        <styleUrl>#whitepin</styleUrl>
+        <Point>
+          <coordinates>-73.558304,45.6035,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>jovacoguest</name>
+        <description><![CDATA[SSID: jovacoguest<br> MAC: 0A:18:D6:04:C7:FB<br> Manuf: Unknown<br> Type: infrastructure<br> Channel: 11<br> Encryption: WPA+PSK;WPA+AES-CCM<br> Last time: 2016-11-01 04:35:43<br> GPS: 45.6035,-73.558273]]></description>
+        <styleUrl>#whitepin</styleUrl>
+        <Point>
+          <coordinates>-73.558273,45.6035,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BELL831</name>
+        <description><![CDATA[SSID: BELL831<br> MAC: 2C:E4:12:92:8B:45<br> Manuf: Unknown<br> Type: infrastructure<br> Channel: 1<br> Encryption: WPA+PSK;WPA+AES-CCM<br> Last time: 2016-11-01 04:34:59<br> GPS: 45.6035,-73.558304]]></description>
+        <styleUrl>#whitepin</styleUrl>
+        <Point>
+          <coordinates>-73.558304,45.6035,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BELL667</name>
+        <description><![CDATA[SSID: BELL667<br> MAC: 40:65:A3:60:3B:EE<br> Manuf: Unknown<br> Type: infrastructure<br> Channel: 6<br> Encryption: WPA+PSK;WPA+AES-CCM<br> Last time: 2016-11-01 04:33:58<br> GPS: 45.603508,-73.558304]]></description>
+        <styleUrl>#whitepin</styleUrl>
+        <Point>
+          <coordinates>-73.558304,45.603508,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pow!</name>
+        <description><![CDATA[SSID: Pow!<br> MAC: 40:65:A3:62:6B:26<br> Manuf: Unknown<br> Type: infrastructure<br> Channel: 2<br> Encryption: WPA+PSK;WPA+AES-CCM<br> Last time: 2016-11-01 04:35:30<br> GPS: 45.6035,-73.558304]]></description>
+        <styleUrl>#whitepin</styleUrl>
+        <Point>
+          <coordinates>-73.558304,45.6035,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BELL527</name>
+        <description><![CDATA[SSID: BELL527<br> MAC: 40:C7:29:EF:5D:7E<br> Manuf: Unknown<br> Type: infrastructure<br> Channel: 11<br> Encryption: WPA+PSK;WPA+AES-CCM<br> Last time: 2016-11-01 04:35:27<br> GPS: 45.6035,-73.558304]]></description>
+        <styleUrl>#whitepin</styleUrl>
+        <Point>
+          <coordinates>-73.558304,45.6035,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BravoTelecom-13381</name>
+        <description><![CDATA[SSID: BravoTelecom-13381<br> MAC: 60:E3:27:70:17:DA<br> Manuf: Unknown<br> Type: infrastructure<br> Channel: 10<br> Encryption: WPA+PSK;WPA+AES-CCM<br> Last time: 2016-11-01 04:35:50<br> GPS: 45.6035,-73.558273]]></description>
+        <styleUrl>#whitepin</styleUrl>
+        <Point>
+          <coordinates>-73.558273,45.6035,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BELL587</name>
+        <description><![CDATA[SSID: BELL587<br> MAC: 90:72:82:F7:D2:AE<br> Manuf: Unknown<br> Type: infrastructure<br> Channel: 6<br> Encryption: WPA+PSK;WPA+AES-CCM<br> Last time: 2016-11-01 04:35:31<br> GPS: 45.6035,-73.558304]]></description>
+        <styleUrl>#whitepin</styleUrl>
+        <Point>
+          <coordinates>-73.558304,45.6035,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DIRECT-15-HP ENVY 4520 series</name>
+        <description><![CDATA[SSID: DIRECT-15-HP ENVY 4520 series<br> MAC: 98:E7:F4:1F:0C:16<br> Manuf: Unknown<br> Type: infrastructure<br> Channel: 1<br> Encryption: WPA+PSK;WPA+AES-CCM<br> Last time: 2016-11-01 04:34:21<br> GPS: 45.6035,-73.558304]]></description>
+        <styleUrl>#whitepin</styleUrl>
+        <Point>
+          <coordinates>-73.558304,45.6035,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>VIDEOTRON7441</name>
+        <description><![CDATA[SSID: VIDEOTRON7441<br> MAC: AC:F1:DF:65:A7:66<br> Manuf: Unknown<br> Type: infrastructure<br> Channel: 1<br> Encryption: WPA+PSK;WPA+AES-CCM<br> Last time: 2016-11-01 04:35:37<br> GPS: 45.6035,-73.558304]]></description>
+        <styleUrl>#whitepin</styleUrl>
+        <Point>
+          <coordinates>-73.558304,45.6035,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BravoTelecom-4724</name>
+        <description><![CDATA[SSID: BravoTelecom-4724<br> MAC: C4:E9:84:FD:CD:12<br> Manuf: Unknown<br> Type: infrastructure<br> Channel: 5<br> Encryption: WPA+PSK;WPA+AES-CCM<br> Last time: 2016-11-01 04:35:46<br> GPS: 45.6035,-73.558304]]></description>
+        <styleUrl>#whitepin</styleUrl>
+        <Point>
+          <coordinates>-73.558304,45.6035,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BravoTelecom_14053</name>
+        <description><![CDATA[SSID: BravoTelecom_14053<br> MAC: EC:08:6B:DE:BA:7A<br> Manuf: Unknown<br> Type: infrastructure<br> Channel: 10<br> Encryption: WPA+PSK;WPA+AES-CCM<br> Last time: 2016-11-01 04:35:31<br> GPS: 45.6035,-73.558304]]></description>
+        <styleUrl>#whitepin</styleUrl>
+        <Point>
+          <coordinates>-73.558304,45.6035,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SECURITE ANJOU</name>
+        <description><![CDATA[SSID: SECURITE ANJOU<br> MAC: F8:E9:03:B5:BB:BC<br> Manuf: Unknown<br> Type: infrastructure<br> Channel: 2<br> Encryption: WPA+TKIP;WPA+PSK;WPA+AES-CCM<br> Last time: 2016-11-01 04:35:30<br> GPS: 45.6035,-73.558304]]></description>
+        <styleUrl>#whitepin</styleUrl>
+        <Point>
+          <coordinates>-73.558304,45.6035,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>VIDEOTRON5476</name>
+        <description><![CDATA[SSID: VIDEOTRON5476<br> MAC: FC:F5:28:D4:40:40<br> Manuf: Unknown<br> Type: infrastructure<br> Channel: 11<br> Encryption: WPA+TKIP;WPA+PSK;WPA+AES-CCM<br> Last time: 2016-11-01 04:34:52<br> GPS: 45.6035,-73.558296]]></description>
+        <styleUrl>#whitepin</styleUrl>
+        <Point>
+          <coordinates>-73.558296,45.6035,0.0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+    <name>OPEN: 1 networks</name>
+      <Placemark>
+        <name>None</name>
+        <description><![CDATA[SSID: None<br> MAC: 88:DC:96:33:7D:0E<br> Manuf: Unknown<br> Type: infrastructure<br> Channel: 1<br> Encryption: None<br> Last time: 2016-11-01 04:32:03<br> GPS: 45.603516,-73.558304]]></description>
+        <styleUrl>#whitepin</styleUrl>
+        <Point>
+          <coordinates>-73.558304,45.603516,0.0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

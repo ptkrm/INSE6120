@@ -24,3 +24,5 @@
 + Why I don’t use Airplane WiFi - https://blog.joemanna.com/dont-use-airplane-wifi-security/
 
 + Public Wi-Fi hotspots – know the risks - http://www.welivesecurity.com/2014/11/14/public-wi-fi-hotspots-know-risks/
+
++ http://arstechnica.com/security/2011/01/stay-safe-at-a-public-wi-fi-hotspot/
