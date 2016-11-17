@@ -1,16 +1,10 @@
-////////////////////////////////////////////////////////////
-
-## INSE 6120 Cryptographic Protocols and Network Security 
-
-////////////////////////////////////////////////////////////
+# INSE 6120 Cryptographic Protocols and Network Security 
 
 ## IMPORTANT
 
 - Project Progress Report by NOV / 21
 - Demo by DEC / 06
 - Final Report by DEC / 09
-
-////////////////////////////////////////////////////////////
 
 ## PROPOSAL
 
@@ -23,8 +17,6 @@ For this type of project, students are asked to implement a working solution (in
 
 
 6. Free WiFi. Free WiFi hotspots have blossomed in recent years and are available in virtually every shop where a customer may consume something (e.g., coffee shops and fast-food restaurants), as well as public places (e.g., airports), including those by local projects such as the MtlWiFi project and ˆIle Sans Fil. How secure are these networks? What can a malicious user do? Also, these access points are sometimes privately owned, and owners may like to gather some information on its users. What do they gather? Do they inject content? Can you implement quick tests as an app to launch when connecting to a new hotspot to verify how dangerous it is? This project will require field studies.
-
-////////////////////////////////////////////////////////////
 
 ## OBJECTIVES
 
@@ -40,15 +32,13 @@ For this type of project, students are asked to implement a working solution (in
 
 - _This project will require field studies._
 
-###PROPOSED?
+## PROPOSED?
 
 - _Categorize how grade of security have a wifi hotspot and describe how percentage of hotspot gather information, how many inject any kind of contents (ads, javascript files, etc), how many use any kind of proxy to alter https communication (man in the middle), etc._
 
 - _Create an evaluation plan to use it for performing my test against different hotspot._
 
 - _Propose some recommendation to make user connection more secure._ 
-
-////////////////////////////////////////////////////////////
 
 ## NEWS
 
