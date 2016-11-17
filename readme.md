@@ -34,11 +34,23 @@ For this type of project, students are asked to implement a working solution (in
 
 ## PROPOSED?
 
+In this project I am not going to focus on how to perform attack against Wireless Access Point, the goal of this project is to evaluate how safe are these connection, We want to know if they are gathering information about us? Or injecting content to our browser? Additionally What can a malicious user can do? Can a malicious user eavesdrop our communication or alter it?.
+
 - _Categorize how grade of security have a wifi hotspot and describe how percentage of hotspot gather information, how many inject any kind of contents (ads, javascript files, etc), how many use any kind of proxy to alter https communication (man in the middle), etc._
 
 - _Create an evaluation plan to use it for performing my test against different hotspot._
 
 - _Propose some recommendation to make user connection more secure._ 
+
+## STAGES
+
+1) Stage 1 - Research, Lab Environment and Evaluation Plan: Here I am going to collect all the information possible and decide what cause makes a hotspot insecure, conduct different Labs test to simulate various hotspot condition and start to elaboration my evaluation plan.
+
+2) Stage 2 - Field Studies - Wardriving: start collecting Wireless Networks location to later pre select which wireless networks audit by different criteria, discard home wireless network (maybe by SSID or by Zone). Additionally here I want to select a couple of hotspot from different Chain Stores (McDonalds, Starbucks , etc) because I have a doubt is their wireless configuration is different by location or they have the same configuration.
+
+3) Stage 3 - Field Studies - Conduct Test: Perform the different test against selected free wireless hotspots.
+
+4) Stage 4 - Final Report: As stage name , write the final report.
 
 ## NEWS
 
