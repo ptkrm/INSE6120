@@ -1,10 +1,37 @@
 # NOTES
 
+Terms as
+
+Walled Garden
+
+Hotspot
+
+
+**CHAP VS PAP **
+
+CHAP does not have these deficiencies. With CHAP, the authenticator (i.e. the server) sends a randomly generated ``challenge'' string to the client, along with its hostname. The client uses the hostname to look up the appropriate secret, combines it with the challenge, and encrypts the string using a one-way hashing function. The result is returned to the server along with the client's hostname. The server now performs the same computation, and acknowledges the client if it arrives at the same result.
+
+## DIAGRAMA
+
+__Usar formato de Tunneling for Transparency:__ , muy sencillo
+
+### 1. ABSTRACT
+
+Pequeno briefing de lo que trata el trabajo y lo que se va a hacer, revisar el proposal ?
+
+### 2. INTRODUCTION
+
+Explicacion
+
+### 3. Background
+
+## TOOLS
+
++ Winbox for Mac - http://joshaven.com/resources/tools/winbox-for-mac/
+
 ## REFERENCES
 
 + Tunneling for Transparency: A Large-Scale Analysis of End-to-End Violations in the Internet. David Choffnes, Alan Misove, Taejoong Chung
-
-+ Wireless Hotspots: Current Challenges and Future Directions - Anand Balachandran, Geoffrey M. Voelker
 
 + Wireless Hotspots: Current Challenges and Future Directions, Anand Balachandran, Geoffrey M. Voelker, Paramvir Bahl
 
@@ -16,8 +43,13 @@
 
 + Security Analysis on Public Wireless Internet Service Models, Kenji Ohira, Ying Huang, Yasuo Okabe, Kenji Fujikawa, Motonori Nakamura 
 
++ http://www.tldp.org/LDP/nag/node120.html
+
++ http://www.uobabylon.edu.iq/eprints/publication_4_28658_1412.pdf
 
 + Wifi Exposed
+
++ http://adios-hola.org/
 
 + “Free” Wi-Fi from Xfinity and AT&T also frees you to be hacked - http://arstechnica.com/security/2014/06/free-wi-fi-from-xfinity-and-att-also-frees-you-to-be-hacked/
 
@@ -28,3 +60,13 @@
 + http://arstechnica.com/security/2011/01/stay-safe-at-a-public-wi-fi-hotspot/
 
 + http://www.theregister.co.uk/2016/07/21/gop_wifi_privacy_fail/
+
++ http://www.mikrotik.com/testdocs/ros/3.0/pnp/hotspot.php
+
++ https://en.wikipedia.org/wiki/Password_Authentication_Protocol
+
++ http://wiki.mikrotik.com/wiki/Manual:IP/Hotspot/Walled_Garden
+
++ http://www.binaryheartbeat.net/2014/02/setting-up-mikrotik-hotspot-with.html
+
++ http://www.techtimes.com/articles/56706/20150530/if-you-are-using-hola-vpn-you-need-to-know-this-hint-botnet-and-bandwidth.htm
