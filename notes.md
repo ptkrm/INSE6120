@@ -52,6 +52,10 @@ Explicacion
 
 + Security Analysis on Public Wireless Internet Service Models, Kenji Ohira, Ying Huang, Yasuo Okabe, Kenji Fujikawa, Motonori Nakamura 
 
+http://searchmobilecomputing.techtarget.com/definition/captive-portal
+
++ https://en.wikipedia.org/wiki/%C3%8Ele_Sans_Fil
+
 ## NEWS
 
 + “Free” Wi-Fi from Xfinity and AT&T also frees you to be hacked - http://arstechnica.com/security/2014/06/free-wi-fi-from-xfinity-and-att-also-frees-you-to-be-hacked/

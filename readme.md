@@ -2,6 +2,22 @@
 
 ## IMPORTANT
 
+Github for INSE 6120: INSE 6120 Cryptographic Protocols and Network Security.
+
+Free Wifi Project by Lino Nava
+
+We can found nexts folders:
+
+* Report: Here is located final report (draft) in format: pages, pdf, docx.
+
+* Proposal: Project proposal presented.
+
+* Code: Code for the tool uses it to data gathering
+
+* Evidences: Captures from wardriving stages, packet capture in labs, etc.
+
+## DATES
+
 - Project Progress Report by NOV / 21
 - Demo by DEC / 06
 - Final Report by DEC / 09
