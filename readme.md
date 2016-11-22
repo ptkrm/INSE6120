@@ -67,37 +67,3 @@ In this project I am not going to focus on how to perform attack against Wireles
 3) Stage 3 - Field Studies - Conduct Test: Perform the different test against selected free wireless hotspots.
 
 4) Stage 4 - Final Report: As stage name , write the final report.
-
-## NEWS
-
-NOV / 11
-
-Dear All,
-
-I have been receiving a few update reports in the last 2 weeks. It seems like most of you will benefit from a project progress report submission (by Nov 21).
-
-Survey projects - mandatory submission with grading (5 marks): If you are doing a survey, please submit a report by Nov 21.  This report can be incomplete, but should have the overall structure of your report. The final report will be due on Dec 9. No presentation will be needed.
-
-Implementation projects: Your can submit a progress report, but this will not be graded. You need to present and demo your work on Dec 6; this will carry 10 marks. The final report/implementation will be due on Dec 9.
-
-This project update reports will primarily be used to give you feedback.
-
-Please avoid plagiarism in your report. If you are not sure about something, let me know.
-
-Thanks,
-
-OCT / 03
-
-Dear All:
-
-Please note, we have office our tomorrow at regular time (12-1pm).
-
-Last Thursday, I talked to many of you re: your project proposal. Please re-submit your updated proposal, if you have been asked to, by tomorrow (Tuesday) night. My TA (Xavier) will look into the updates, and may provide additional feedback.
-
-Many of you have chosen to do a survey, even though some of you have little experience in reading academic papers. But that's your choice. At least, read the base paper (from IEEE S&P or ACM CUSR) completely, before you finalize the proposal. Also, include some related papers on your topic in the proposal - to show us that you actually searched, and understand a bit about the topic of your choice.
-
-For those with implementation projects: yes, you can reuse any existing projects to build your tool. You have to acknowledge/mention the reused work in the final project report.
-
-See you all tomorrow.
-
-Thanks,
